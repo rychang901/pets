@@ -1,0 +1,31 @@
+{
+    "name": "Pets",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.3.3",
+        "tag": "v1.3.3",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/0bd6cd1008cea28f6cd03010e45fbe8f05885e01",
+        "target": "1.4.28",
+        "pxt": "6.3.3",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
